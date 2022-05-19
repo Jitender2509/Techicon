@@ -1,0 +1,145 @@
+[23-Jan-2020 08:21:26 UTC] PHP Notice:  Undefined index: last_name in /home/dxsonn2hk690/public_html/techicon/admin/contact.php on line 51
+[23-Jan-2020 08:21:38 UTC] PHP Notice:  Undefined index: username in /home/dxsonn2hk690/public_html/techicon/admin/includes/header.php on line 3
+[23-Jan-2020 08:21:40 UTC] PHP Notice:  Undefined index: username in /home/dxsonn2hk690/public_html/techicon/admin/includes/header.php on line 3
+[23-Jan-2020 08:21:40 UTC] PHP Notice:  Undefined index: last_name in /home/dxsonn2hk690/public_html/techicon/admin/contact.php on line 51
+[23-Jan-2020 08:23:33 UTC] PHP Notice:  Undefined index: last_name in /home/dxsonn2hk690/public_html/techicon/admin/contact.php on line 51
+[23-Jan-2020 09:17:32 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 09:17:32 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 09:17:32 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 09:17:32 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 09:54:01 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 09:54:01 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 09:54:01 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 09:54:01 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 10:58:31 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 10:58:31 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 10:58:31 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 10:58:31 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 10:59:23 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 10:59:23 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 10:59:23 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 10:59:23 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 11:00:24 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 11:00:24 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 11:00:24 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 11:00:24 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[23-Jan-2020 11:00:28 UTC] PHP Notice:  Undefined index: last_name in /home/dxsonn2hk690/public_html/techicon/admin/contact.php on line 51
+[24-Jan-2020 09:07:59 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[24-Jan-2020 09:07:59 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[24-Jan-2020 09:07:59 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[24-Jan-2020 09:07:59 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[24-Jan-2020 09:08:30 UTC] PHP Notice:  Undefined index: username in /home/dxsonn2hk690/public_html/techicon/admin/includes/header.php on line 3
+[24-Jan-2020 09:08:33 UTC] PHP Notice:  Undefined index: username in /home/dxsonn2hk690/public_html/techicon/admin/includes/header.php on line 3
+[24-Jan-2020 09:08:33 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[24-Jan-2020 09:08:33 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[24-Jan-2020 09:08:33 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[24-Jan-2020 09:08:33 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[24-Jan-2020 15:11:52 UTC] PHP Notice:  Undefined index: username in /home/dxsonn2hk690/public_html/techicon/admin/includes/header.php on line 3
+[24-Jan-2020 15:11:52 UTC] PHP Notice:  Undefined index: last_name in /home/dxsonn2hk690/public_html/techicon/admin/contact.php on line 51
+[06-Feb-2020 11:18:02 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[06-Feb-2020 11:18:02 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[06-Feb-2020 11:18:02 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[06-Feb-2020 11:18:02 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[06-Feb-2020 11:18:25 UTC] PHP Notice:  Undefined index: last_name in /home/dxsonn2hk690/public_html/techicon/admin/contact.php on line 51
+[07-Feb-2020 10:50:15 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:50:15 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:50:15 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:50:15 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:50:30 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:50:30 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:50:30 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:50:30 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:51:09 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:51:09 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:51:09 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:51:09 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:52:14 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:52:14 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:52:14 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:52:14 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:52:42 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:52:42 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:52:42 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:52:43 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:53:35 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:53:35 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:53:35 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:53:35 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:54:01 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:54:01 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:54:01 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:54:01 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:54:04 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:54:04 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:54:04 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:54:04 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:55:01 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:55:01 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:55:01 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:55:01 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:55:06 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:55:06 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:55:06 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 10:55:06 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:34:16 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 161
+[07-Feb-2020 11:34:19 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 161
+[07-Feb-2020 11:34:21 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 161
+[07-Feb-2020 11:34:35 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:34:35 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:34:35 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:34:35 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:34:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 161
+[07-Feb-2020 11:34:47 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 161
+[07-Feb-2020 11:34:49 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:34:49 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:34:49 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:34:49 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:34:52 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 161
+[07-Feb-2020 11:34:54 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:34:54 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:34:54 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:34:54 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:35:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 158
+[07-Feb-2020 11:35:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 158
+[07-Feb-2020 11:40:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 162
+[07-Feb-2020 11:40:04 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 162
+[07-Feb-2020 11:40:05 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 162
+[07-Feb-2020 11:40:07 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:40:07 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:40:07 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:40:07 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:52:14 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:52:14 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:52:14 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:52:14 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[07-Feb-2020 11:53:37 UTC] PHP Notice:  Undefined variable: query_search in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 67
+[07-Feb-2020 11:55:11 UTC] PHP Notice:  Undefined variable: query_search in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 67
+[07-Feb-2020 11:56:05 UTC] PHP Notice:  Undefined variable: query_search in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 72
+[07-Feb-2020 11:56:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 72
+[07-Feb-2020 11:56:52 UTC] PHP Notice:  Undefined variable: query_search in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 72
+[07-Feb-2020 11:56:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 72
+[07-Feb-2020 11:57:37 UTC] PHP Notice:  Undefined variable: query_search in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 75
+[07-Feb-2020 11:57:37 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 75
+[07-Feb-2020 11:57:41 UTC] PHP Notice:  Undefined variable: query_search in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 75
+[07-Feb-2020 11:57:41 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 75
+[07-Feb-2020 11:59:41 UTC] PHP Notice:  Undefined index: first_name in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 78
+[07-Feb-2020 12:05:25 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 61
+[07-Feb-2020 12:05:29 UTC] PHP Parse error:  syntax error, unexpected ')', expecting '(' in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 61
+[10-Feb-2020 00:25:00 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[10-Feb-2020 00:25:00 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[10-Feb-2020 00:25:00 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[10-Feb-2020 00:25:00 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[10-Feb-2020 00:36:41 UTC] PHP Parse error:  syntax error, unexpected 'py' (T_STRING), expecting ',' or ';' in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 190
+[10-Feb-2020 00:37:09 UTC] PHP Parse error:  syntax error, unexpected 'py' (T_STRING), expecting ',' or ';' in /home/dxsonn2hk690/public_html/techicon/admin/search.php on line 190
+[10-Feb-2020 05:14:44 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[10-Feb-2020 05:14:44 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[10-Feb-2020 05:14:44 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[10-Feb-2020 05:14:44 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[10-Feb-2020 05:16:58 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[10-Feb-2020 05:16:58 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[10-Feb-2020 05:16:58 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[10-Feb-2020 05:16:58 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[11-Feb-2020 07:45:32 UTC] PHP Notice:  Constant DB_HOST already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[11-Feb-2020 07:45:32 UTC] PHP Notice:  Constant DB_USER already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[11-Feb-2020 07:45:33 UTC] PHP Notice:  Constant DB_PASS already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
+[11-Feb-2020 07:45:33 UTC] PHP Notice:  Constant DB_NAME already defined in /home/dxsonn2hk690/public_html/techicon/admin/includes/db_config.php on line 10
